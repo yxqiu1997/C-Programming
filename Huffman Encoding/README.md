@@ -6,5 +6,5 @@ commonly occuring characters are near the top of the tree.
 Detailed introduction of huffman coding can be seen at: https://en.wikipedia.org/wiki/Huffman_coding
 
 Specific implementation method:
-    -link-list to store characters read from testFile.txt 
-    -Bubblesort to sort data by frequency
+    -linklist to store characters read from testFile.txt. 
+    -Bubblesort to sort data by frequency.
