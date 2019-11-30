@@ -9,3 +9,4 @@ Detailed introduction of huffman coding can be seen at: https://en.wikipedia.org
 Specific implementation methods:  
 &emsp;&emsp;&emsp;- linklist to store characters read from testFile.txt  
 &emsp;&emsp;&emsp;- Bubblesort to sort data by frequency
+
