@@ -50,7 +50,3 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
-Huffman Encoding/huffmanTree.c
-Huffman Encoding/huffmanTree.h
-Huffman Encoding/huffmanTree_makefile
-Huffman Encoding/testFile.txt
