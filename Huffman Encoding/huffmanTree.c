@@ -36,7 +36,7 @@ int main(int argc, char **argv)
             rightPlace = findPlace(start, c);
             temp = allocateNode(c);
             temp->next = rightPlace->next;
-            rightPlace->next = temp;   
+            rightPlace->next = temp;    
         }  
     }
     
