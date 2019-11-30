@@ -26,4 +26,4 @@ listNode* insertSubtree(listNode* head, listNode* insertElem);
 void printHuffmanTree(listNode* node, char* code, int i);
 void printCode(char* code, int num);
 void sortList(listNode* head, int length);
-void swapNode(listNode* p1, listNode* p2); 
+void swapNode(listNode* p1, listNode* p2);
