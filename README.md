@@ -1,4 +1,9 @@
-# Implement Basic Data Structure and Algorithm in C
+# COMSM1201: Exercises in C
+## Contents:
+- [x] Pre-Arrays
+
+
+<!-- ## Implement Basic Data Structure and Algorithm in C
 1. **Huffman Encoding**  
 &emsp;&emsp;- Data structure: Binary Tree(Huffman Tree)  
-&emsp;&emsp;- Algorithm: Linklist, Bubblesort
+&emsp;&emsp;- Algorithm: Linklist, Bubblesort -->
