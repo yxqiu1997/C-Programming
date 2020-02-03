@@ -1,7 +1,7 @@
 # COMSM1201: Exercises in C
 ## Contents:
 - - [x] Pre-Arrays
-
+&emsp;&emsp;[x] 2.1 Planet Trium
 
 <!-- ## Implement Basic Data Structure and Algorithm in C
 # Programming in C
