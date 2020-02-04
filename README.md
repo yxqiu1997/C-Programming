@@ -1,4 +1,4 @@
-# COMSM1201: Exercises in C
+# Exercises in C
 ## Contents:
 - [x] Pre-Arrays  
   - [x] 2.1 Planet Trium
