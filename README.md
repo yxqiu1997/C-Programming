@@ -1,5 +1,4 @@
-# Exercises in C
-## Contents:
+# Contents:
 - [x] Pre-Arrays  
   - [x] 2.1 Planet Trium
   - [x] 2.2 Planet Bob
