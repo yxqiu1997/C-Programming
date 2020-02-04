@@ -1,4 +1,13 @@
 # Contents:
+- [x] 1D Arrays and Strings  
+  - [x] 3.1 Microwave
+  - [x] 3.2 Music Playlisters
+  - [x] 3.3 Rule 110
+  - [x] 3.4 Palindromes
+  - [x] 3.5 Int to String
+  - [x] 3.6 Roman Numerals
+  - [x] 3.7 Soundex Coding
+
 - [x] Pre-Arrays  
   - [x] 2.1 Planet Trium
   - [x] 2.2 Planet Bob
