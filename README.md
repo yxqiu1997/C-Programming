@@ -1,4 +1,11 @@
 # Contents:
+- [x] Strings, Recursion and SDL  
+  - [x] 5.1 Anagrams
+  - [x] 5.2 Draw to Unlock
+  - [x] 5.4 Word Ladders
+  - [x] 5.5 The-Devel's-Dartboard
+  - [x] 5.6 Maze
+
 - [x] 2D Arrays  
   - [x] 4.3 Wireworld
 
