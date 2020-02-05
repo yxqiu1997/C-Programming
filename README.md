@@ -1,4 +1,10 @@
 # Contents:
+- [x] Lists, Insertion Sort & more Recursion
+  - [x] 6.1 A Simple Spelling Checker
+  - [x] 6.2 Prime Factors
+  - [x] 6.3 Sierpinski Carpet
+  - [x] 6.4 Sierpinski Squares
+
 - [x] Strings, Recursion and SDL  
   - [x] 5.1 Anagrams
   - [x] 5.2 Draw to Unlock
