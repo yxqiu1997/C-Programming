@@ -1,4 +1,8 @@
 # Contents:
+- [x] Searching Boards
+  - [x] 7.1 Conway’s Soldiers
+  - [x] 7.2 The 8-Tile Puzzle
+
 - [x] Lists, Insertion Sort & more Recursion
   - [x] 6.1 A Simple Spelling Checker
   - [x] 6.2 Prime Factors
