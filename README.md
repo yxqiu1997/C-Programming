@@ -1,4 +1,10 @@
 # Contents:
+-[X] Huffman and Tree
+  - [x] 7.1 Depth;
+  - [x] 7.2 Two Trees
+  - [x] 7.3 Huffman Encoding
+  - [x] 7.4 Binary Tree Visualisation
+
 - [x] Searching Boards
   - [x] 7.1 Conway’s Soldiers
   - [x] 7.2 The 8-Tile Puzzle
