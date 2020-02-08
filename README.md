@@ -1,9 +1,20 @@
 # Contents:
--[X] Huffman and Tree
-  - [x] 7.1 Depth;
-  - [x] 7.2 Two Trees
-  - [x] 7.3 Huffman Encoding
-  - [x] 7.4 Binary Tree Visualisation
+- [x] ADTs and Algorithms II
+  - [x] 11.1 MultiValue Maps
+  - [x] 11.2 Rhymes
+  - [x] 11.3 Faster MVMs
+
+- [x] ADTs and Algorithms I
+  - [x] 10.1 Indexed Arrays
+  - [x] 10.2 Sets
+  - [x] 10.3 Towards Polymorphism
+  - [x] 10.4 Double Hashing
+
+-[x] Huffman and Tree
+  - [x] 9.1 Depth
+  - [x] 9.2 Two Trees
+  - [x] 9.3 Huffman Encoding
+  - [x] 9.4 Binary Tree Visualisation
 
 - [x] Searching Boards
   - [x] 7.1 Conway’s Soldiers
