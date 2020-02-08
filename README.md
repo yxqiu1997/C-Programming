@@ -10,7 +10,7 @@
   - [x] 10.3 Towards Polymorphism
   - [x] 10.4 Double Hashing
 
--[x] Huffman and Tree
+- [x] Huffman and Tree
   - [x] 9.1 Depth
   - [x] 9.2 Two Trees
   - [x] 9.3 Huffman Encoding
